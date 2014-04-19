@@ -82,7 +82,7 @@ public class TravelTicketsActivity extends Activity {
             // TODO Auto-generated method stub
         	switch(v.getId()){
         	case R.id.intercom_select:
-        		chatWithKeFu("admin");
+        		chatWithKeFu("your_kefu_username");
         		break;
         	default:
         		break;
